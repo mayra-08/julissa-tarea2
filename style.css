@@ -1,0 +1,42 @@
+/* contenedor */
+header{background-color: aqua;height: 190px;}
+
+/* fin de contenedor */
+
+.caja1 { background-color: darkgray;
+     padding-top: 50px;
+      margin-left: auto;
+       margin-right: auto;
+        width: 600px; font-family: cursive;}
+
+body{text-align:center;}
+h1{ background: darkgray;
+     font-family: cursive; 
+font-size: x-large;}
+
+
+/*redescontainer */
+li{ text-align: center; }
+/*fin redes container*/
+
+
+ul{
+    list-style-type: none;
+    margin: auto;height: 125px;
+    background-color: beige;
+    width: 190px;border-radius: 50%;
+    text-align: right ; border-style: solid;
+  }
+  
+
+i{ color: chartreuse;
+}
+
+footer{ background-color: aqua ;
+margin-top: 50px;}
+
+ 
+
+
+
+
