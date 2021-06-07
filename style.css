@@ -1,5 +1,5 @@
 /* contenedor */
-header{background-color: aqua;height: 190px;}
+header{background-color: aqua;height: 190px; margin: 0px;}
 
 /* fin de contenedor */
 
@@ -16,7 +16,7 @@ font-size: x-large;}
 
 
 /*redescontainer */
-li{ text-align: center; }
+li{ text-align: center; color: brown; }
 /*fin redes container*/
 
 
@@ -29,13 +29,11 @@ ul{
   }
   
 
-i{ color: chartreuse;
-}
+
+
 
 footer{ background-color: aqua ;
 margin-top: 50px;}
-
- 
 
 
 
